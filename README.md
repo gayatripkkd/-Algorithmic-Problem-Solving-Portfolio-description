@@ -1,0 +1,2 @@
+# -Algorithmic-Problem-Solving-Portfolio-description
+**Algorithmic Problem-Solving Portfolio**  This project is a collection of programming problems and solutions designed to improve logical thinking, coding skills, and algorithmic problem-solving abilities. It includes fundamental programming concepts, searching and sorting algorithms, arrays, strings, loops, functions, and basic data structures usi
